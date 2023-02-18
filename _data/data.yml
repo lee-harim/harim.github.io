@@ -8,49 +8,51 @@ sidebar:
 
     # Profile information
     name: Harim Lee
-    tagline: Full Stack Developer
+    tagline: Postdoctoral Researcher
     avatar: harim_image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: harim@khu.ac.kr
+    office: +82 31 201 3877
+    phone: +82 10 6745 9584
+    timezone: Asia/Seoul Timezone
+    Nationality: Korea, Republic of
+    Gender: Female
+    Date or Birth: 1989 November 11
+    Marital Status: Single
+    website: harime.me #do not add http://
+    # linkedin: alandoe
+    # xing: alandoe
+    # github: sharu725
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Intermediate
 
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Sun, Sunspot
           link:
 
-        - item: Snowboarding
+        - item: Flare, Coronal Mass Ejection, Space Weather
           link:
 
-        - item: Cooking
+        - item: Deep Learning, Data Analysis
           link:
 
 career-profile:
