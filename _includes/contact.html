@@ -37,7 +37,11 @@
     </li>
     {% endif %}
 
-
+    {% if sidebar.user %}
+    <li class="phone"><i class="fas fa-user"></i>
+      {{ sidebar.user }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.telegram %}
     <li class="telegram"><i class="fab fa-telegram"></i>
