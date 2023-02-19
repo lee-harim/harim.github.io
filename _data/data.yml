@@ -45,10 +45,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Sun, Sunspot, Active Region,
+        - item: Sun, Sunspot, Active Region, Flare,
           #link:
 
-        - item: Flare, Coronal Mass Ejection, Space Weather,
+        - item: Coronal Mass Ejection, Space Weather,
           #link:
 
         - item: Deep Learning, Data Analysis
@@ -63,6 +63,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -102,6 +103,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+
 experiences:
     title: Experiences
     info:
@@ -131,6 +133,7 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
+
 publications:
     title: Publications
     intro: |
@@ -152,6 +155,7 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
+
 projects:
     title: Projects
     intro: >
