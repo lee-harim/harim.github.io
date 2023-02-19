@@ -46,10 +46,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Sun, Sunspot, Active Region
+        - item: Sun, Sunspot, Active Region,
           #link:
 
-        - item: Flare, Coronal Mass Ejection, Space Weather
+        - item: Flare, Coronal Mass Ejection, Space Weather,
           #link:
 
         - item: Deep Learning, Data Analysis
@@ -69,7 +69,7 @@ education:
     info:
       - degree: Ph.D in Solar Physics/Space Weather
         university: Kyung Hee University
-        university: School of Space Research
+        department: School of Space Research
         time: 2015.03.02 - 2019.02.20
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -81,7 +81,7 @@ education:
             - Bullet point
       - degree: MSc in Solar Physics/Space Weather
         university: Kyung Hee University
-        university: School of Space Research
+        department: School of Space Research
         time: 2013.03.02 - 2015.02.12
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -93,7 +93,7 @@ education:
             - Bullet point
       - degree: BSc in Astronomy and Space Science
         university: Kyung Hee University
-        university: Department of Astronomy and Space Science, College of Applied Science
+        department: Department of Astronomy and Space Science, College of Applied Science
         time: 2008.03.02 - 2013.02.20
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
