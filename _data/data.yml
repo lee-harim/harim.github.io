@@ -42,7 +42,6 @@ sidebar:
         - idiom: English
           level: Intermediate
 
-
     interests:
       title: Interests
       info:
@@ -106,9 +105,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Professor
+        time: 2022.03 - Present
+        company: Department of Astronomy and Space Science, College of Applied Science, Kyung Hee University
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,20 +120,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Postdoctoral Researcher
+        time: 2019.03 - 2022.02
+        company: Department of Astronomy and Space Science, College of Applied Science, Kyung Hee University
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -215,23 +203,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: IDL(Solar Software)
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python(Tensorflow, Pytorch)
+        level: 60%
 
-      - name: Angular
-        level: 98%
+      - name: Observational data analysis - SOHO, STEREO, SDO, Ca II, Sunspot drawing
+        level: 90%
 
-      - name: HTML5 & CSS
+      - name: Analysis of CME models - Ice-cream cone model, Graduated Cylindrical Shell(GCS) flux rope model, Stereo CME analysis Tool(NASA/CCMC)
+        level: 90%
+
+      - name: Microsoft
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Adobe Photoshop, Adobe Illustraor
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
