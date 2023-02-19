@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: harim@khu.ac.kr
-    phone: +82 31 201 3877
+    office: +82 31 201 3877
     phone: +82 10 6745 9584
     timezone: Asia/Seoul Timezone
     citizenship: Korea, Republic of
@@ -46,14 +46,14 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Sun, Sunspot
-          link:
+        - item: Sun, Sunspot, Active Region
+          #link:
 
         - item: Flare, Coronal Mass Ejection, Space Weather
-          link:
+          #link:
 
         - item: Deep Learning, Data Analysis
-          link:
+          #link:
 
 career-profile:
     title: Career Profile

@@ -3,13 +3,19 @@
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+      <a href="">{{ sidebar.email }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.office %}
+    <li class="phone"><i class="fas fa-phone"></i>
+      <a href="">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
-      <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
+      <a href="">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
 
