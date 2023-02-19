@@ -67,8 +67,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Ph.D in Solar Physics/Space Research
+      - degree: Ph.D in Solar Physics/Space Weather
         university: Kyung Hee University
+        university: School of Space Research
         time: 2015.Mar.02 - 2019.Feb.20
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,8 +79,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: MSc in Solar Physics/Space Research
+      - degree: MSc in Solar Physics/Space Weather
         university: Kyung Hee University
+        university: School of Space Research
         time: 2013.Mar.02 - 2015.Feb.12
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -91,6 +93,7 @@ education:
             - Bullet point
       - degree: BSc in Astronomy and Space Science
         university: Kyung Hee University
+        university: Department of Astronomy and Space Science, College of Applied Science
         time: 2008.Mar.02 - 2013.Feb.20
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
