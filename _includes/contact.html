@@ -26,8 +26,14 @@
     {% endif %}
 
     {% if sidebar.citizenship %}
-    <li class="phone"><i class="fas fa-passport"></i>
+    <li class="citizenship"><i class="fas fa-passport"></i>
       {{ sidebar.citizenship }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.address %}
+    <li class="address"><i class="fas fa-map-marked-alt"></i>
+      {{ sidebar.address }}</a>
     </li>
     {% endif %}
 
