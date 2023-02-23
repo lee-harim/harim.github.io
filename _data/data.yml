@@ -19,7 +19,7 @@ sidebar:
     citizenship: Korea, Republic of
     address: Kyung Hee University
     birth: 1989 November 11
-    user: Female/Single
+    user: Female
     website: harim.me #do not add http://
     # linkedin: alandoe
     # xing: alandoe
@@ -110,29 +110,22 @@ experiences:
       - role: Research Professor
         time: 2022.03 - Present
         company: Department of Astronomy and Space Science, College of Applied Science, Kyung Hee University
-        #details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+
       - role: Postdoctoral Researcher
         time: 2019.03 - 2022.02
         company: Department of Astronomy and Space Science, College of Applied Science, Kyung Hee University
+
+      - role: Dotoral Thesis
+        time: 2015.03 - 2019.02
+        company: School of Space Research, Kyung Hee University
         #details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Study on 3-D Oscillaions of Halo Coronal Mass Ejections by SOHO/LASCO C3 and STEREO/SECCHI COR2
+
+      - role: Master's Thesis
+        time: 2013.03 - 2015.02
+        company: School of Space Research, Kyung Hee University
+        #details: |
+          Are 3-D Coronal Mass Ejection Parameters from Single-view Observations Consistent with Multi-view Ones?
 
 publications:
     title: Publications
