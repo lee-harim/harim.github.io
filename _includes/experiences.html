@@ -24,11 +24,11 @@
     </div><!--//meta-->
 
     {% if experience.details %}
-    <div class="details">
+    <h4 class="details">
       <blockquote>
-      <h3>{{ experience.details | markdownify }}</h3>
+      {{ experience.details | markdownify }}
       </blockquote>
-    </div><!--//details-->
+    </h4><!--//details-->
     {% endif %}
 
   </div><!--//item-->
