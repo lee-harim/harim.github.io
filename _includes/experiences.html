@@ -25,9 +25,9 @@
 
     {% if experience.details %}
     <div class="details">
-     <blockquote>
-      {{ experience.details | markdownify }}
-     </blockquote>
+      <blockquote>
+      <h3>{{ experience.details | markdownify }}</h3>
+      </blockquote>
     </div><!--//details-->
     {% endif %}
 
