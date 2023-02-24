@@ -19,6 +19,18 @@
   {% for project in projects.assignments %}
     <div class="item">
 
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="title">{{ experience.role }}</h3>
+          <div class="time">{{ experience.time }}</div>
+        </div><!--//upper-row-->
+  
+        <div class="company">{{ experience.company }}</div>
+        <div class="position">{{ experience.title }}</div>
+  
+      </div><!--//meta-->
+  
       <span class="project-title">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
