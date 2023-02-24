@@ -156,10 +156,10 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - position: Principal Investigator
+      - title: Study on deep learning flare forecasting models using long-term solar activity and flare history
         time: 2021.06 - 2024.05
         company: Kyung Hee University
-        title: Study on deep learning flare forecasting models using long-term solar activity and flare history
+        position: Principal Investigator
         
 oss:
     title: OSS Contributions
