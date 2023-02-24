@@ -161,6 +161,36 @@ projects:
         company: Kyung Hee University
         title: Study on deep learning flare forecasting models using long-term solar activity and flare history
         
+      - position: Principal Investigator
+        time: 2019.03 - 2022.02
+        company: Kyung Hee University
+        title: Generation of solar UV, X-ray, and magnetogram since 1612 using deep learning
+
+      - position: Research Associate
+        time: 2020.05 - 2022.02
+        company: Kyung Hee University
+        title: Study on the forecast of the occurrence, strength, and temporal evolution of solar flares using deep learning
+      
+      - position: Research Associate
+        time: 2017.01 - 2019.02
+        company: Kyung Hee University
+        title: Study on CME 3-d oscillations and the forecast of CME occurrence and propagation
+      
+      - position: Research Associate
+        time: 2014.03 - 2016.05
+        company: Kyung Hee University
+        title: Study on the optimization of the input parameters of the WSA-ENLIL CME propagation model
+      
+      - position: Research Assistant
+        time: 2013.09 - 2019.02
+        company: Kyung Hee University
+        title: BK21PLUS-Space exploration of the Moon-Earth system
+              
+      - position: Research Assistant
+        time: 2013.03 - 2013.08
+        company: Kyung Hee University
+        title: WCU-Space Exploration in Lunar Orbit
+        
 oss:
     title: OSS Contributions
     intro: >
