@@ -118,13 +118,13 @@ experiences:
       - role: Dotoral Thesis
         time: 2015.03 - 2019.02
         company: School of Space Research, Kyung Hee University
-        details: |
+        title: |
           Thesis title - Study on 3-D Oscillaions of Halo Coronal Mass Ejections by SOHO/LASCO C3 and STEREO/SECCHI COR2
 
       - role: Master's Thesis
         time: 2013.03 - 2015.02
         company: School of Space Research, Kyung Hee University
-        details: |
+        title: |
           Thesis title - Are 3-D Coronal Mass Ejection Parameters from Single-view Observations Consistent with Multi-view Ones?
 
 publications:
