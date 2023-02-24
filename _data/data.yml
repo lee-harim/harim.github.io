@@ -156,13 +156,11 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - position: Principal investigator
+      - position: Principal Investigator
         time: 2021.06 - 2024.05
-        company: School of Space Research, Kyung Hee University
+        company: Kyung Hee University
         title: Study on deep learning flare forecasting models using long-term solar activity and flare history
         
-
-
 oss:
     title: OSS Contributions
     intro: >
