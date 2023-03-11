@@ -1,8 +1,6 @@
 {% assign publications = site.data.data.publications %}
 {% if publications %}
 <section class="section publications-section">
-ol {padding-left:0; margin-left:0;}
-<ol reversed>
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -17,6 +15,7 @@ ol {padding-left:0; margin-left:0;}
   </div><!--//intro-->
   {% endif %}
 
+  <ol reversed>
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
@@ -28,7 +27,7 @@ ol {padding-left:0; margin-left:0;}
     <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
   {% endfor %}
+  </ol>
 
-</ol>
 </section><!--//section-->
 {% endif %}
