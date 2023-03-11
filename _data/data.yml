@@ -214,6 +214,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Microsoft(Word, Excel, PowerPoint)
+        level: 95%
+
+      - name: Adobe Photoshop, Illustraor, Premiere
+        level: 70%
+
       - name: IDL(Solar Software)
         level: 80%
 
@@ -226,11 +232,5 @@ skills:
       - name: Analysis of CME models - Ice-cream cone model, Graduated Cylindrical Shell(GCS) flux rope model, Stereo CME analysis Tool(NASA/CCMC)
         level: 90%
 
-      - name: Microsoft(Word, Excel, PowerPoint)
-        level: 95%
-
-      - name: Adobe Photoshop, Illustraor, Premiere
-        level: 70%
-
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
