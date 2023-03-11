@@ -134,20 +134,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
+        authors: Harim Lee, Eunsu Park, and Y.-J. Moon
+        conference: APJ, 907, 118, 202102
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Solar farside magnetograms from deep learning analysis of STEREO/EUVI data"
+        link: "https://www.nature.com/articles/s41550-019-0711-5"
+        authors: Taeyoung Kim, Eunsu Park, Harim Lee, Y.-J. Moon, Sung-Ho Bae, Daye Lim, SoojeongJang, Lokwon Kim, Il-Hyun Cho, Myungjin Choi, and Kyung-Suk Cho (These authors contributed equally-Taeyoung Kim, Eunsu Park, Harim Lee)
+        conference: Nature Astonomy, 3, 397, 201903
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Three-dimensional Oscillations of 21 Halo Coronal Mass Ejections Using Multi-spacecraft Data
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/aae5f6"
+        authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov, Hyeonock Na, Il-Hyun Cho, and Eunsu Park
+        conference: APJ, 868, 18L, 201811
 
 projects:
     title: Projects
