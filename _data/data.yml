@@ -220,16 +220,16 @@ skills:
       - name: Python(Tensorflow, Pytorch)
         level: 70%
 
-      - name: Observational data analysis - SOHO, STEREO, SDO, Ca II, Sunspot drawing
+      - name: Observational data analysis - SDO, STEREO, SOHO, Ca II, Sunspot drawing
         level: 90%
 
       - name: Analysis of CME models - Ice-cream cone model, Graduated Cylindrical Shell(GCS) flux rope model, Stereo CME analysis Tool(NASA/CCMC)
         level: 90%
 
-      - name: Microsoft
+      - name: Microsoft(Word, Excel, PowerPoint)
         level: 95%
 
-      - name: Adobe Photoshop, Adobe Illustraor
+      - name: Adobe Photoshop, Illustraor, Premiere
         level: 70%
 
 footer: >
