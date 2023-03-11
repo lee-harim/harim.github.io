@@ -136,32 +136,32 @@ publications:
     papers:
       - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
-        authors: Harim Lee, Eunsu Park, and Y.-J. Moon
+        authors: Harim Lee, Eunsu Park, Y.-J. Moon
         conference: ApJ, 907, 118, 202102
 
       - title: "Solar farside magnetograms from deep learning analysis of STEREO/EUVI data"
         link: "https://www.nature.com/articles/s41550-019-0711-5"
-        authors: Taeyoung Kim, Eunsu Park, Harim Lee, Y.-J. Moon, Sung-Ho Bae, Daye Lim, SoojeongJang, Lokwon Kim, Il-Hyun Cho, Myungjin Choi, and Kyung-Suk Cho (These authors contributed equally &#58; Taeyoung Kim, Eunsu Park, Harim Lee)
+        authors: Taeyoung Kim, Eunsu Park, Harim Lee, Y.-J. Moon, Sung-Ho Bae, Daye Lim, SoojeongJang, Lokwon Kim, Il-Hyun Cho, Myungjin Choi, Kyung-Suk Cho (These authors contributed equally &#58; Taeyoung Kim, Eunsu Park, Harim Lee)
         conference: Nature Astonomy, 3, 397, 201903
 
       - title: Three-dimensional Oscillations of 21 Halo Coronal Mass Ejections Using Multi-spacecraft Data
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/aae5f6"
-        authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov, Hyeonock Na, Il-Hyun Cho, and Eunsu Park
+        authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov, Hyeonock Na, Il-Hyun Cho, Eunsu Park
         conference: ApJ, 868, 18L, 201811
 
       - title: Are 3-D coronal mass ejection parameters from single-view observations consistent with multiview ones?
         link: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JA021118"
-        authors: Harim Lee, Y.-J. Moon, Hyeonock Na, Soojeong Jang, and Jae-Ok Lee
+        authors: Harim Lee, Y.-J. Moon, Hyeonock Na, Soojeong Jang, Jae-Ok Lee
         conference: JGRA, 120, 12, 10237-10249, 201512
 
       - title: "Radial and Azimuthal Oscillations of Halo Coronal Mass Ejections in the Sun"
         link: "https://iopscience.iop.org/article/10.1088/2041-8205/803/1/L7"
-        authors: Harim Lee, Y.-J. Moon, and V. M. Nakariakov
+        authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov
         conference: ApJL, 803, 7L, 201504
 
       - title: Pixel-to-pixel translation of solar EUV images for DEMs by Fully-connected Networks
         link: "https://iopscience.iop.org/article/10.3847/1538-4365/aca902"
-        authors: Eunsu Park, Harim Lee, Yong-Jae Moon, Jin-Yi Lee, Il-Hyun Cho, Kyoung-Sun Lee, Daye Lim, Hyun-Jin Jeong, and Jae-Ok Lee
+        authors: Eunsu Park, Harim Lee, Yong-Jae Moon, Jin-Yi Lee, Il-Hyun Cho, Kyoung-Sun Lee, Daye Lim, Hyun-Jin Jeong, Jae-Ok Lee
         conference: ApJS, 264, 33, 202301
 
       - title: Improved AI-generated Solar Farside Magnetograms by STEREO and SDO Data Sets and Their Release
@@ -171,12 +171,12 @@ publications:
         
       - title: Generation of Solar Coronal White Light Images from SDO/AIA EUV Images by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/ac8c24"
-        authors: Bendict Lawrance, Harim Lee, Eunsu Park, Il-Hyun Cho, Yong-Jae Moon, Jin-Yi Lee, Shanmugaraju, sumiaya rahman
+        authors: Bendict Lawrance, Harim Lee, Eunsu Park, Il-Hyun Cho, Yong-Jae Moon, Jin-Yi Lee, Shanmugaraju, Sumiaya Rahman
         conference: ApJ, 937, 2, 202210
         
       - title: Kinematic classification of coronal mass ejections in lasco c3 field of view
         link: "https://doi.org/10.5303/JKAS.2022.55.3.67"
-        authors: Seong-Gyeong Jeon, Yong-Jae Moon, Il-Hyun Cho, Harim Lee, and Kangwoo Yi
+        authors: Seong-Gyeong Jeon, Yong-Jae Moon, Il-Hyun Cho, Harim Lee, Kangwoo Yi
         conference: JKAS, 55, 3, 202206
         
       - title: Inference of magnetic field during Dalton minimum &#58; Case study with recorded sunspot areas
@@ -184,30 +184,30 @@ publications:
         authors: Shoma Uneme, Shinsuke Imada, Harim Lee, Eunsu Park, Hisashi Hayakawa, Tomoya Iju, Yong-Jae Moon
         conference: PASJ, 74, 4, 202206
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Generation of HeI 1083nm Images from SDO AIA Images by Deep Learning
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/ac16dd"
+        authors: Jihyeon Son , Junghun Cha, Yong-Jae Moon, Harim Lee, Eunsu Park, Gyungin Shin, Hyun-Jin Jeong
+        conference: ApJ, 920, 101, 202110
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Kinematic oscillations of post-cme blobs detected by k-cor on 2017 september 10
+        link: "https://doi.org/10.5303/JKAS.2021.54.2.61"
+        authors: Jae-Ok Lee, Kyung-Suk Cho, Valery M. Nakariakov, Harim Lee, Rok-Soon Kim, Soojeong Jang, Heesu Yang, Sujin Kim, Yeon-Han Kim
+        conference: JKAS, 54, 2, 202104
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Visual Explanation of a Deep Learning Solar Flare Forecast Model and Its Relationship to Physical Parameters
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/abdebe"
+        authors: Kangwoo Yi, Yong-Jae Moon, Daye Lim, Eunsu Park, Harim Lee
+        conference: ApJL, 910, 8, 202103
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Reply to &#58; AI-generated magnetograms from only EUV images are not scientifically reliable
+        link: "https://www.nature.com/articles/s41550-021-01311-5"
+        authors: Eunsu Park, Hyun-Jin Jeong, Harim Lee, Taeyoung Kim, Yong-Jae Moon
+        conference: Nature Astonomy, 5, 111, 202102
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Solar Coronal Magnetic Field Extrapolation from Synchronic Data with AI-generated Farside
+        link: "https://iopscience.iop.org/article/10.3847/2041-8213/abc255"
+        authors: Hyun-Jin Jeong, Yong-Jae Moon, Eunsu Park, Harim Lee
+        conference: ApJL, 903, L25, 202011
         
       - title: title
         link: "#"
