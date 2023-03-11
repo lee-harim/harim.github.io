@@ -18,17 +18,15 @@
 
   {% for publication in publications.papers %}
   <div class="item">
+  <ol reversed>
     {% if publication.link %}
-      <ol>
-        <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
-      </ol>
+      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
-      <ol>
-        <li>{{ publication.title }}</li>
-      </ol>
+      <li>{{ publication.title }}</li>
     {% endif %}
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
+  </ol>
   </div><!--//item-->
   {% endfor %}
 
