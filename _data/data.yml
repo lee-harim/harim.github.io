@@ -137,7 +137,7 @@ publications:
       - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
         authors: Harim Lee, Eunsu Park, and Y.-J. Moon
-        conference: APJ, 907, 118, 202102
+        conference: ApJ, 907, 118, 202102
 
       - title: "Solar farside magnetograms from deep learning analysis of STEREO/EUVI data"
         link: "https://www.nature.com/articles/s41550-019-0711-5"
@@ -147,7 +147,112 @@ publications:
       - title: Three-dimensional Oscillations of 21 Halo Coronal Mass Ejections Using Multi-spacecraft Data
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/aae5f6"
         authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov, Hyeonock Na, Il-Hyun Cho, and Eunsu Park
-        conference: APJ, 868, 18L, 201811
+        conference: ApJ, 868, 18L, 201811
+
+      - title: Are 3-D coronal mass ejection parameters from single-view observations consistent with multiview ones?
+        link: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JA021118"
+        authors: Harim Lee, Y.-J. Moon, Hyeonock Na, Soojeong Jang, and Jae-Ok Lee
+        conference: JGRA, 120, 12, 10237-10249, 201512
+
+      - title: "Radial and Azimuthal Oscillations of Halo Coronal Mass Ejections in the Sun"
+        link: "https://iopscience.iop.org/article/10.1088/2041-8205/803/1/L7"
+        authors: Harim Lee, Y.-J. Moon, and V. M. Nakariakov
+        conference: ApJL, 803, 7L, 201504
+
+      - title: Pixel-to-pixel translation of solar EUV images for DEMs by Fully-connected Networks
+        link: "https://iopscience.iop.org/article/10.3847/1538-4365/aca902"
+        authors: Eunsu Park, Harim Lee, Yong-Jae Moon, Jin-Yi Lee, Il-Hyun Cho, Kyoung-Sun Lee, Daye Lim, Hyun-Jin Jeong, and Jae-Ok Lee
+        conference: ApJS, 264, 33, 202301
+
+      - title: Improved AI-generated Solar Farside Magnetograms by STEREO and SDO Data Sets and Their Release
+        link: "https://iopscience.iop.org/article/10.3847/1538-4365/ac8d66"
+        authors: Hyun-Jin Jeong, Yong-Jae Moon, Eunsu Park, Harim Lee, Ji-Hye Baek
+        conference: ApJS, 262, 50, 202210
+        
+      - title: Generation of Solar Coronal White Light Images from SDO/AIA EUV Images by Deep Learning
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/ac8c24"
+        authors: Bendict Lawrance, Harim Lee, Eunsu Park, Il-Hyun Cho, Yong-Jae Moon, Jin-Yi Lee, Shanmugaraju, sumiaya rahman
+        conference: ApJ, 937, 2, 202210
+        
+      - title: Kinematic classification of coronal mass ejections in lasco c3 field of view
+        link: "https://doi.org/10.5303/JKAS.2022.55.3.67"
+        authors: Seong-Gyeong Jeon, Yong-Jae Moon, Il-Hyun Cho, Harim Lee, and Kangwoo Yi
+        conference: JKAS, 55, 3, 202206
+        
+      - title: Inference of magnetic field during Dalton minimum &#58; Case study with recorded sunspot areas
+        link: "https://doi.org/10.1093/pasj/psac032"
+        authors: Shoma Uneme, Shinsuke Imada, Harim Lee, Eunsu Park, Hisashi Hayakawa, Tomoya Iju, Yong-Jae Moon
+        conference: PASJ, 74, 4, 202206
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
+        
+      - title: title
+        link: "#"
+        authors: Harim
+        conference: ApJ
 
 projects:
     title: Projects
