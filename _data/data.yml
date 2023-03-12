@@ -57,12 +57,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello, welcome to my personal website!
+
+      I am currently working as an academic research professor at 
+      Kyung Hee University. My passion for this field has led me to 
+      develop expertise in analyzing solar observational data and 
+      using deep learning for scientific research.
+
+      I have a Ph.D. and have gained invaluable experience doing 
+      solar physics and space weather research. Through my work, 
+      I have been able to contribute to a better understanding of 
+      the effects of solar activity on the Earth.
+
+      On this website, you can find information about my 
+      professional background including academic achievements, 
+      research projects, and publications. 
+      I have a proven track record of successfully using data analytics and 
+      deep learning techniques to make important scientific discoveries.
+
+      Thank you for visiting my website. 
+      I look forward to sharing my work and connecting with you.
 
 education:
     title: Education
