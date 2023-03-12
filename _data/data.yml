@@ -296,24 +296,18 @@ projects:
         company: Kyung Hee University
         title: WCU-Space Exploration in Lunar Orbit
         
-oss:
-    title: OSS Contributions
+honors:
+    title: Honors
     intro: >
-      You can list your open source software contributions in this
+      You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    assignments:
+      - position: 1st Prize
+        time: 2021.12
+        company: Space weather data idea contest, Ministry of Science	and ICT, Republic of Korea
+        
+        
 
 skills:
     title: Skills &amp; Proficiency
