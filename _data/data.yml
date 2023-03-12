@@ -336,6 +336,9 @@ skills:
 
       - name: Analysis of CME models - Ice-cream cone model, Graduated Cylindrical Shell(GCS) flux rope model, Stereo CME analysis Tool(NASA/CCMC)
         level: 90%
+      
+      - name: HTML, CSS
+        level: 20%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
