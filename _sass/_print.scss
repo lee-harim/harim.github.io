@@ -9,7 +9,7 @@
 
     img.avatar {
         filter: grayscale(0);
-        -webkit-filter: greyscale();
+        -webkit-filter: greyscale(0);
     }
    .main-wrapper .time {
        float: right;
