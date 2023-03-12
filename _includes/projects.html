@@ -27,19 +27,19 @@
   <ul>
   {% for project in projects.assignments %}
   <div class="item">
-    <ul>
     <div class="meta">
     
       <div class="upper-row">
+      <ul>    
         <li class="position">{{ project.position }}</li>
         <div class="time">{{ project.time }}</div>
+      </ul>    
       </div><!--//upper-row-->
-      
+    
       <div class="company">{{ project.company }}</div>
       <div class="title">{{ project.title }}</div>
-    
     </div><!--//meta-->
-    </ul>
+
     <!-- <span class="project-title">
       {% if project.link %}
       <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
