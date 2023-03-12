@@ -324,7 +324,21 @@ honors:
       - position: Honorable Mention
         time: 2014.06
         company: 2014 NASA/CCMC Student Research Contest, USA
-                                                        
+
+patents:
+    title: Patents
+
+    assignments:
+      - position: 10-2450395(Republic of Korea Patent Application)
+        time: 2022.09
+        company: Y.-J. Moon, Il-Hyun Cho, and Harim Lee
+        title: Method for correcting roll angle of solar coronagraphic image and apparatus thereof
+        
+      - position: 10-2021-0126663(Republic of Korea Patent Application)
+        time: 2021.09
+        company: Y.-J. Moon, Harim Lee, Eunsu Park, Hyun-Jin Jeong
+        title: Method and apparatus for generating solar space satellite observation data
+
 skills:
     title: Skills &amp; Proficiency
 
