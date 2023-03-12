@@ -9,7 +9,7 @@
 
     img.avatar {
         filter: grayscale(0);
-        -webkit-filter: greyscale(0);
+        -webkit-filter: greyscale();
     }
    .main-wrapper .time {
        float: right;
@@ -32,7 +32,7 @@
     }
 
     .skillset .level-bar-inner {
-       background-color: black !important;
+       background-color: #A15277 !important;
        -webkit-print-color-adjust: exact; 
     }
 
