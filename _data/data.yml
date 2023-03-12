@@ -130,9 +130,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I have published 5 first-author papers and 19 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
     papers:
       - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
@@ -257,9 +255,7 @@ publications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have experience serving as a principal investigator for 2 national research and development projects, as well as participating as a research member in numerous projects.
     assignments:
       - position: Principal Investigator
         time: 2021.06 - 2024.05
