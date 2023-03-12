@@ -295,16 +295,36 @@ projects:
 honors:
     title: Honors
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have actively participated in various competitions, such as research contests and artificial intelligence competitions, and achieved excellent results.
     assignments:
       - position: 1st Prize
         time: 2021.12
         company: Space weather data idea contest, Ministry of Science	and ICT, Republic of Korea
         
-        
+      - position: Excellence award
+        time: 2020.12
+        company: Space weather data idea contest, Ministry of Science	and ICT, Republic of Korea
 
+      - position: 2nd Prize
+        time: 2020.12
+        company: AI challenge, Minds n company, Republic of Korea
+        
+      - position: Excellence Award for Young Scientists
+        time: 2020.11
+        company: Korea Federation Women's	Science & Technology Associations, Republic of Korea
+
+      - position: Commendation Award
+        time: 2016.01
+        company: CEO of InSpace Co., Ltd., Republic of Korea
+
+      - position: Commendation Award
+        time: 2015.12
+        company: Director of National Radio Research Agency, Republic of Korea
+
+      - position: Honorable Mention
+        time: 2014.06
+        company: 2014 NASA/CCMC Student Research Contest, USA
+                                                        
 skills:
     title: Skills &amp; Proficiency
 
