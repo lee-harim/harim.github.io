@@ -27,7 +27,7 @@
   <ul>
   {% for project in projects.assignments %}
   <div class="item">
-    <div class="meta">
+    <li class="meta">
       <div class="upper-row">
           
         <div class="position">{{ project.position }}</div>
@@ -37,7 +37,7 @@
 
       <div class="company">{{ project.company }}</div>
       <div class="title">{{ project.title }}</div>
-    </div><!--//meta-->
+    </li><!--//meta-->
 
     <!-- <span class="project-title">
       {% if project.link %}
