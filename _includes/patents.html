@@ -28,14 +28,14 @@
   {% for patent in patents.assignments %}
   <div class="item">
     <li class="meta">
-      <div class="position">{{ patent.position }}</div>  
+      <div class="title">{{ patent.position }}</div>  
       <div class="upper-row">
-        <div class="company">{{ patent.company }}</div>
+        <div class="name">{{ patent.company }}</div>
         <div class="time">{{ patent.time }}</div>
           
       </div><!--//upper-row-->
       
-      <div class="title">{{ patent.title }}</div>
+      <div class="number">{{ patent.title }}</div>
     </li><!--//meta-->
   </div><!--//item-->
   {% endfor %}
