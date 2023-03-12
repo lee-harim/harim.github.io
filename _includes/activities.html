@@ -1,17 +1,17 @@
-{% assign honors = site.data.data.honors %}
-{% if honors %}
-<section class="section honors-section">
+{% assign activities = site.data.data.activities %}
+{% if activities %}
+<section class="section activities-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-award fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-list-ul fa-stack-1x fa-inverse"></i>
     </span>
-    {{ honors.title }}
+    {{ activities.title }}
   </h2>
 
-  {% if honors.intro %}
+  {% if activities.intro %}
   <div class="intro">
-    <p>{{ honors.intro }}</p>
+    <p>{{ activities.intro }}</p>
   </div>
   <!--//intro-->
   {% endif %}
@@ -25,18 +25,18 @@
   </style>
 
   <ul>
-  {% for honor in honors.assignments %}
+  {% for activity in activities.assignments %}
   <div class="item">
     <li class="meta">
       <div class="upper-row">
           
-        <div class="position">{{ honor.position }}</div>
-        <div class="time">{{ honor.time }}</div>
+        <div class="position">{{ activity.position }}</div>
+        <div class="time">{{ activity.time }}</div>
           
       </div><!--//upper-row-->
 
-      <div class="company">{{ honor.company }}</div>
-      <div class="title">{{ honor.title }}</div>
+      <div class="company">{{ activity.company }}</div>
+      <div class="title">{{ activity.title }}</div>
     </li><!--//meta-->
   </div><!--//item-->
   {% endfor %}
