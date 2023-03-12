@@ -21,21 +21,21 @@
       margin:20px; padding:0px;
       list-style-type: disc;
       display: block;
-       }  
+      }  
   </style>
 
   <ul>
   {% for project in projects.assignments %}
-  <div class="item">
+  <li class="item">
     <div class="meta">
       <div class="upper-row">
-        <li class="position">{{ project.position }}</li>
+        <div class="position">{{ project.position }}</div>
         <div class="time">{{ project.time }}</div>
       </div><!--//upper-row-->
 
       <div class="company">{{ project.company }}</div>
       <div class="title">{{ project.title }}</div>
-    </div><!--//meta-->
+    </li><!--//meta-->
 
     <!-- <span class="project-title">
       {% if project.link %}
