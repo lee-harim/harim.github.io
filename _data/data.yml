@@ -341,6 +341,38 @@ patents:
         number: 10-2021-0126663, Republic of Korea Patent Application
         space: " "
 
+activities:
+    title: Visiting Research/Participation in School Program
+    
+    assignments:
+      - position: Python in Heliophysics Summer School
+        time: 2022.05
+        company: Madrid, Spain
+
+      - position: The 10th KIAS CAC Summer school - Scientific Computing 
+        time: 2019.06
+        company: Artificial Intelligence, Korea Institute for Advanced Study (KIAS), Republic of Korea	
+
+      - position: Visiting Research (4 weeks)
+        time: 2019.03
+        company: Max Plank Institute for Solar System Research, Göttingen, Germany
+
+      - position: Russian-British Seminar of Young Scientists
+        time: 2017.09
+        company: Irkutsk, Russia
+
+      - position: SOKENDAI Asian Solar Physics Winter School
+        time: 2016.01
+        company: Tokyo, Japan
+
+      - position: Visiting Research (9 months)
+        time: 2015.04
+        company: Korean Space Weather Center, National Radio Research Agency, Jeju, Republic of Korea
+
+      - position: NASA/CCMC Space Weather REDI Summer Bootcamp
+        time: 2014.06
+        company: NASA Goddard Space Flight Center, MD, USA
+
 skills:
     title: Skills &amp; Proficiency
 
