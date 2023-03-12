@@ -16,11 +16,17 @@
   </div><!--//intro-->
   {% endif %}
 
+  <style>
+    ol{
+      margin:20px; padding:0px;
+       }
+  </style>
+
   {% for project in projects.assignments %}
   <div class="item">
 
     <div class="meta">
-    <ul>
+    <ol>
       <div class="upper-row">
         <li class="position">{{ project.position }}</li>
         <div class="time">{{ project.time }}</div>
@@ -28,7 +34,7 @@
 
       <div class="company">{{ project.company }}</div>
       <div class="title">{{ project.title }}</div>
-    </ul>  
+    </ol>  
     </div><!--//meta-->
 
     <!-- <span class="project-title">
