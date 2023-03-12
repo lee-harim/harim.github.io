@@ -209,50 +209,50 @@ publications:
         authors: Hyun-Jin Jeong, Yong-Jae Moon, Eunsu Park, Harim Lee
         conference: ApJL, 903, L25, 202011
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Accelerating and Supersonic Density Fluctuations in Coronal Hole Plumes &#58; Signature of Nascent Solar Winds
+        link: "https://iopscience.iop.org/article/10.3847/2041-8213/abb020"
+        authors: Il-Hyun Cho, Valery M. Nakariakov, Yong-Jae Moon, Jin-Yi Lee, Dae Jung Yu, Kyung-Suk Cho, Vasyl Yurchyshyn, Harim Lee
+        conference: ApJL, 900, L19, 202009
+           
+      - title: Generation of High-resolution Solar Pseudo-magnetograms from Ca II K Images by Deep Learning
+        link: "https://iopscience.iop.org/article/10.3847/2041-8213/ab9085"
+        authors: Gyungin Shin, Yong-Jae Moon, Eunsu Park, Hyunjin Jeong, Harim Lee, Sung-Ho Bae
+        conference: ApJL, 895, L16, 202005
+
+      - title: De-noising SDO/HMI Solar Magnetograms by Image Translation Method Based on Deep Learning
+        link: "https://iopscience.iop.org/article/10.3847/2041-8213/ab74d2"
+        authors: Eunsu Park, Yong-Jae Moon, Daye Lim, Harim Lee
+        conference: ApJL, 891, L4, 202003
+
+      - title: Generation of solar UV and EUV images from SDO/HMI magnetograms by deep learning
+        link: "https://iopscience.iop.org/article/10.3847/2041-8213/ab46bb"
+        authors: Eunsu Park, Y.-J. Moon, J.-Y. Lee, R.-S. Kim, Harim Lee, D. Lee, G. Shin, T. Kim
+        conference: ApJL, 884, L23, 201910
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Application of the Deep Convolutional Neural Network to the Forecast of Solar Flare Occurrence Using Full-disk Solar Magnetograms
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/aaed40"
+        authors: Eunsu Park, Y.-J. Moon, Seulki Shin, Kangwoo Yi, Daye Lim, Harim Lee, Gyungin Shin
+        conference: ApJ, 869, 91P, 201812
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Two-dimensional solar wind speeds from 6 to 26 solar radii in solar cycle 24 by using Fourier filtering
+        link: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.075101"
+        authors: Il-Hyun Cho, Yong-Jae Moon, Valery M. Nakariakov, Su-Chan Bong, Jin-Yi Lee, Donguk Song, Harim Lee, Kyung-Suk Cho
+        conference: PRL, 121, 075101, 201808
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Dependence of the Peak Fluxes of Solar Energetic Particles on CME 3D Parameters from STEREO and SOHO
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/aa794a"
+        authors: Jinhye Park, Y.-J. Moon, Harim Lee
+        conference: ApJ, 844, 3L, 201707
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Development of a Full Ice-cream Cone Model for Halo Coronal Mass Ejections
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/aa697c"
+        authors: Hyeonock Na, Y.-J. Moon, Harim Lee
+        conference: ApJ, 839, 2, 82N, 201707
         
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
-        
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
-        
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
-        
-      - title: title
-        link: "#"
-        authors: Harim
-        conference: ApJ
+      - title: Comparison between 2D and 3D Parameters of 306 Front-side Halo CMEs from 2009 to 2013
+        link: "https://iopscience.iop.org/article/10.3847/0004-637X/821/2/95"
+        authors: Soojeong Jang, Y.-J. Moon, R.-S. Kim, Harim Lee, K.-S. Cho
+        conference: ApJ, 921, 95J, 201604
 
 projects:
     title: Projects
