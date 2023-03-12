@@ -27,8 +27,9 @@
   {% for project in projects.assignments %}
   <div class="item">
 
+  <ul>
     <div class="meta">
-    <ul>
+    
       <div class="upper-row">
         <li class="position">{{ project.position }}</li>
         <div class="time">{{ project.time }}</div>
@@ -36,9 +37,8 @@
 
       <div class="company">{{ project.company }}</div>
       <div class="title">{{ project.title }}</div>
-    </ul>  
     </div><!--//meta-->
-
+  </ul>  
     <!-- <span class="project-title">
       {% if project.link %}
       <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
