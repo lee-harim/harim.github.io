@@ -171,6 +171,11 @@ publications:
         authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov
         conference: ApJL, 803, 7L, 201504
 
+      - title: Three-day Forecasting of Solar Wind Speed Using SDO/AIA Extreme-ultraviolet Images by a Deep-learning Model
+        link: "https://iopscience.iop.org/article/10.3847/1538-4365/ace59a"
+        authors: Jihyeon Son, Suk-Kyung Sung, Yong-Jae Moon, Harim Lee, and Hyun-Jin Jeong
+        conference: ApJS, 267, 45, 202308
+
       - title: Pixel-to-pixel translation of solar EUV images for DEMs by Fully-connected Networks
         link: "https://iopscience.iop.org/article/10.3847/1538-4365/aca902"
         authors: Eunsu Park, Harim Lee, Yong-Jae Moon, Jin-Yi Lee, Il-Hyun Cho, Kyoung-Sun Lee, Daye Lim, Hyun-Jin Jeong, Jae-Ok Lee
@@ -280,6 +285,11 @@ projects:
         time: 2019.03 - 2022.02
         company: Kyung Hee University
         title: Generation of solar UV, X-ray, and magnetogram since 1612 using deep learning
+
+      - position: Project Manager
+        time: 2023.04 - 2027.12
+        company: Kyung Hee University
+        title: Development of solar synoptic magnetograms using deep learning
 
       - position: Research Associate
         time: 2020.05 - 2022.02
