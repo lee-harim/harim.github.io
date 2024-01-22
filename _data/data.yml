@@ -144,7 +144,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      I have published 5 first-author papers and 19 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
+      I have published 5 first-author papers and 22 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
     papers:
       - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
@@ -171,6 +171,11 @@ publications:
         authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov
         conference: ApJL, 803, 7L, 201504
 
+      - title: Recurrently Propagating Intensity Disturbances along Polar Plumes Observed in White Light and Extreme Ultraviolet
+        link: "https://iopscience.iop.org/article/10.3847/1538-4357/ad11d2"
+        authors: Il-Hyun Cho, Yong-Jae Moon, Jin-Yi Lee, Junmo An, Dae Jung Yu, Kyung-Suk Cho, Harim Lee, and Jae-Ok Lee
+        conference: ApJ, 961, 128, 202401
+
       - title: Three-day Forecasting of Solar Wind Speed Using SDO/AIA Extreme-ultraviolet Images by a Deep-learning Model
         link: "https://iopscience.iop.org/article/10.3847/1538-4365/ace59a"
         authors: Jihyeon Son, Suk-Kyung Sung, Yong-Jae Moon, Harim Lee, and Hyun-Jin Jeong
@@ -190,7 +195,12 @@ publications:
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/ac8c24"
         authors: Bendict Lawrance, Harim Lee, Eunsu Park, Il-Hyun Cho, Yong-Jae Moon, Jin-Yi Lee, Shanmugaraju, Sumiaya Rahman
         conference: ApJ, 937, 2, 202210
-        
+
+      - title: Application of Deep Learning to Solar and Space Weather Data
+        link: "https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/abs/application-of-deep-learning-to-solar-and-space-weather-data/B2037362C019E4D1079D5BBEFCEC922F"
+        authors: Yong-Jae Moon, Harim Lee, Jihyeon Son, Suk-Kyung Sung, Kangwoo Yi, Hyun-Jin Jeong, Eunsu Park, Eun-Young Ji, Il-Hyun Cho, Bendict Lawrance, Daye Lim, Gyungin Shin, Sujin Lee, Sumiaya Rahman and Taeyoung Kim
+        conference: Proceedings of the International Astronomical Union, 18, S372, 202208
+
       - title: Kinematic classification of coronal mass ejections in lasco c3 field of view
         link: "https://doi.org/10.5303/JKAS.2022.55.3.67"
         authors: Seong-Gyeong Jeon, Yong-Jae Moon, Il-Hyun Cho, Harim Lee, Kangwoo Yi
