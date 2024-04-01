@@ -177,9 +177,9 @@ publications:
         conference: ApJL, accepted
 
       - title: Scientific Perspectives of the Heliophysics L4 Mission by Remote-sensing Observations
-        link: ""
+        link: "https://doi.org/10.5303/JKAS.2024.57.1.35"
         authors: Yong-Jae Moon, Kyung-Suk Cho, Sung-Hong Park, Eun-Kyung Lim, Roksoon Kim, Donguk Song, Jongyeob Park, Eunsu Park, Harim Lee, Hyun-Jin Jeong, Jihye Kang, Jinhye Park, Kangwoo Yi, Il-Hyun Cho, Hyeonock Na
-        conference: JKAS, accepted 
+        conference: JKAS, 57, 1, 202403
 
       - title: Recurrently Propagating Intensity Disturbances along Polar Plumes Observed in White Light and Extreme Ultraviolet
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/ad11d2"
