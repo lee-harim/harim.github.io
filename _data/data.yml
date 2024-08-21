@@ -144,7 +144,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      I have published 5 first-author papers and 22 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
+      I have published 5 first-author papers and 25 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
     papers:
       - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
@@ -170,6 +170,11 @@ publications:
         link: "https://iopscience.iop.org/article/10.1088/2041-8205/803/1/L7"
         authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov
         conference: ApJL, 803, 7L, 201504
+
+      - title: "Can Solar Limb Flare Prediction Be Properly Made by Extreme-ultraviolet Intensities?"
+        link: "https://iopscience.iop.org/article/10.3847/2041-8213/ad6b9b"
+        authors: Jaewon Lee, Yong-Jae Moon, Hyun-Jin Jeong, Kangwoo Yi, Harim Lee
+        conference: ApJL, 971, L47, 202408
 
       - title: "3D Magnetic Free Energy and Flaring Activity Using 83 Major Solar Flares"
         link: "https://iopscience.iop.org/article/10.3847/2041-8213/ad3548"
