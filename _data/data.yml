@@ -12,12 +12,12 @@ sidebar:
     avatar: harim_image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: harim@khu.ac.kr
-    office: +82 31 201 3877
+    email: hl545@njit.edu / harimleesun@gmail.com
     phone: +82 10 6745 9584
+    phone: +1 201 622 8090
     timezone: Asia/Seoul Timezone
     citizenship: Korea, Republic of
-    address: Kyung Hee University
+    address: New Jersey Institute of Technolog
     birth: 1989 November 11
     user: Female
     website: harim.me #do not add http://
@@ -121,8 +121,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Postdoctoral Researcher
+        time: 2025.07 - Present
+        company: Center for Solar-Terrestrial Research, New Jersey Institute of Technology, USA
+
       - role: Research Professor
-        time: 2022.03 - Present
+        time: 2022.03 - 2025.06
         company: Department of Astronomy and Space Science, College of Applied Science, Kyung Hee University
 
       - role: Postdoctoral Researcher
@@ -144,7 +148,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      I have published 5 first-author papers and 25 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
+      I have published 5 first-author papers and 26 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
     papers:
       - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
@@ -170,6 +174,11 @@ publications:
         link: "https://iopscience.iop.org/article/10.1088/2041-8205/803/1/L7"
         authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov
         conference: ApJL, 803, 7L, 201504
+
+      - title: "Can we properly determine differential emission measures from Solar Orbiter/EUI/FSI with deep learning?"
+        link: "https://doi.org/10.1051/0004-6361/202452304"
+        authors: Junmu Youn, Harim Lee, Hyun-Jin Jeong, Jin-Yi Lee, Eunsu Park, Yong-Jae Moon
+        conference: A&A, 695, A125, 202503
 
       - title: "Can Solar Limb Flare Prediction Be Properly Made by Extreme-ultraviolet Intensities?"
         link: "https://iopscience.iop.org/article/10.3847/2041-8213/ad6b9b"
