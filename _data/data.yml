@@ -20,7 +20,8 @@ sidebar:
     address: New Jersey Institute of Technolog
     birth: 1989 November 11
     user: Female
-    website: harim.me #do not add http://
+    website: harim.me
+    website: https://orcid.org/0000-0002-9300-8073 #do not add http://
     # linkedin: alandoe
     # xing: alandoe
     # github: sharu725
@@ -31,7 +32,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1m87nF1QLYSV47OyjTTp5n_6ON2nb_0yC/view
+    #pdf: https://drive.google.com/file/d/1m87nF1QLYSV47OyjTTp5n_6ON2nb_0yC/view
 
     languages:
       title: Languages
@@ -174,6 +175,16 @@ publications:
         link: "https://iopscience.iop.org/article/10.1088/2041-8205/803/1/L7"
         authors: Harim Lee, Y.-J. Moon, V. M. Nakariakov
         conference: ApJL, 803, 7L, 201504
+
+      - title: "Artificial-intelligence-based Reconstruction of Solar Farside Vector Magnetograms from Multispacecraft Extreme-ultraviolet Data"
+        link: "https://doi.org/10.1051/0004-6361/202452304"
+        authors: Hyun-Jin Jeong, Eunsu Park, Harim Lee, Junmu Youn, Mingyu Jeon, Yong-Jae Moon, Stefaan Poedts, Francesco Carella, Haopeng Wang, Daeil Kim, Youngjae Kim, and Jihye Kang
+        conference: ApJS, 281, 63, 202512
+
+      - title: "Prediction of Time-evolving Radial Magnetic Fields on the Solar Surface Using Deep Learning"
+        link: "https://doi.org/10.3847/2041-8213/adf5c7"
+        authors: Hyun-Jin Jeong, Stefaan Poedts, Haopeng Wang, Ekatarina Dineva, Panagiotis Gonidakis, Francesco Carella, George Miloshevich, Luis Linan, Harim Lee
+        conference: ApJL, 989, L31, 202508
 
       - title: "Can we properly determine differential emission measures from Solar Orbiter/EUI/FSI with deep learning?"
         link: "https://doi.org/10.1051/0004-6361/202452304"
