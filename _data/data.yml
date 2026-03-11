@@ -60,21 +60,22 @@ career-profile:
     summary: |
       Hello, welcome to my personal website!
 
-      I am currently working as an academic research professor at 
-      Kyung Hee University. My passion for this field has led me to 
-      develop expertise in analyzing solar observational data and 
-      using deep learning for scientific research.
+      I am currently working at the New Jersey Institute of Technology (NJIT). 
+      My research focuses on solar physics and space weather, 
+       particular interests in analyzing solar observational data and 
+       applying deep learning to scientific problems.
 
-      I have a Ph.D. and have gained invaluable experience doing 
-      solar physics and space weather research. Through my work, 
-      I have been able to contribute to a better understanding of 
-      the effects of solar activity on the Earth.
+      I hold a Ph.D. and have gained valuable experience in 
+      solar physics and space weather research. 
+      Through my work, I aim to contribute to a better understanding of 
+      solar activity and its effects on Earth.
 
-      On this website, you can find information about my 
-      professional background including academic achievements, 
+      On this website, you can find information about 
+      my professional background, including my academic achievements, 
       research projects, and publications. 
-      I have a proven track record of successfully using data analytics and 
-      deep learning techniques to make important scientific discoveries.
+      My work involves data analysis, machine learning, and 
+      scientific modeling to address important questions in 
+      heliophysics and related fields.
 
       Thank you for visiting my website. 
       I look forward to sharing my work and connecting with you.
@@ -149,8 +150,13 @@ experiences:
 publications:
     title: Publications
     intro: |
-      I have published 5 first-author papers and 26 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
+      I have published 6 first-author papers and 28 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
     papers:
+      - title: A New Deep-Learning Approach to Infer Solar and Geomagnetic Parameters for the 1859 Carrington Event
+        link: ""
+        authors: Harim Lee, Daye Lim, Eunsu Park, Y.-J. Moon, Hisashi Hayakawa
+        conference: Journal of Space Weather and Space Climate (JSWSC), 202603, acceted
+
       - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
         authors: Harim Lee, Eunsu Park, Y.-J. Moon
