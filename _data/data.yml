@@ -153,9 +153,9 @@ publications:
       I have published 6 first-author papers and 28 co-authored papers, and have extensive experience presenting both oral and poster presentations at domestic and international academic conferences.
     papers:
       - title: A New Deep-Learning Approach to Infer Solar and Geomagnetic Parameters for the 1859 Carrington Event
-        link: ""
+        link: "https://doi.org/10.1051/swsc/2026009"
         authors: Harim Lee, Daye Lim, Eunsu Park, Y.-J. Moon, Hisashi Hayakawa
-        conference: Journal of Space Weather and Space Climate (JSWSC), 202603, acceted
+        conference: Journal of Space Weather and Space Climate (JSWSC), 16, 11, 202605
 
       - title: Generation of Modern Satellite Data from Galileo Sunspot Drawings in 1612 by Deep Learning
         link: "https://iopscience.iop.org/article/10.3847/1538-4357/abce5f"
